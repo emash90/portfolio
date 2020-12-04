@@ -2,10 +2,10 @@
       edwin-portfolio
 
   #author name
-      edwin macharia kairu
+      {edwin macharia kairu}
 
   #Description of project
-      simple portfolio website
+      {simple portfolio website}
 
   #Program setup instructions
       https://github.com/emash90/portfolio.git
