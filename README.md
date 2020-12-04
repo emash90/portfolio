@@ -1,7 +1,17 @@
+  #project name
+      edwin-portfolio
 
-Author name
-Project or program name
-Description of program
-Program setup instructions
-Link to live version of site on GitHub Pages
-Copyright and license information
+  #author name
+      edwin macharia kairu
+
+  #Description of project
+      simple portfolio website
+
+  #Program setup instructions
+      https://github.com/emash90/portfolio.git
+
+  #Link to live version of site on GitHub Pages
+      https://emash90.github.io/portfolio/
+
+
+  #Copyright and license information
