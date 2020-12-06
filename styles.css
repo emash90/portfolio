@@ -5,6 +5,7 @@ h1 {
 }
 img {
   float: left;
+  box-sizing: border-box;
 }
 p {
   float: right;
