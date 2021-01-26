@@ -1,18 +1,70 @@
-h1 {
-  color: black;
-  text-align: center;
-  text-decoration: underline;
+body {
+  height: 1300px;
+  width: auto;
+  background-blend-mode: hard-light;
+  background-position: 100%;
+  background-repeat: repeat;
+}
+.navbar {
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(61, 60, 60);
+}
+.navbar ul {
+  float: right;
+  padding-right: 5%;
+  padding-top: 25px;
+}
+.navbar ul li {
+  color: aliceblue;
+  display: inline;
+  padding-right: 22px;
+  font-size: 16px;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+section {
+  background-color: rgb(131, 131, 131);
+  width: auto;
+  height: 100%;
+  background-image: url(/images/tracy-adams-rA5MU4pXnWE-unsplash.jpg);
+  background-size: cover;
+  backface-visibility: hidden;
+  background-blend-mode: screen;
+}
+footer {
+  width: auto;
+  height: 100px;
+  background-color: rgb(19, 24, 12);
+}
+#introduction {
+  height: 500px;
+  width: 100%;
+  background-image: url(/images/photo-moto.png);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position-y: 150px;
+  background-position-x: 50px;
+  background-blend-mode: screen;
+  enable-background: inherit;
+}
+#introduction h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+#introduction h2 {
+  position: absolute;
+  top: 55%;
+  left: 45%;
 }
 img {
-  display: block;
-  width: 25%;
+  max-width: 550px;
   height: auto;
-
-
+  opacity: 0.75;
 }
-p {
-  font-size: 12px
-}
-ul {
-  font-size: 12px
+#projects {
+  height: 700px;
+  width: 100%;
 }
