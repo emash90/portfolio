@@ -12,17 +12,20 @@ body {
   background-color: rgb(61, 60, 60);
 }
 .navbar ul {
+  color: aliceblue;
   float: right;
   padding-right: 5%;
   padding-top: 25px;
 }
 .navbar ul li {
-  color: aliceblue;
   display: inline;
   padding-right: 22px;
   font-size: 16px;
   padding: 14px 16px;
   text-decoration: none;
+}
+.navbar ul li > a {
+  color: azure;
 }
 section {
   background-color: rgb(131, 131, 131);
@@ -36,8 +39,9 @@ section {
 footer {
   width: auto;
   height: 100px;
-  background-color:cadetblue;
-  #introduction {
+  background-color: cadetblue;
+}
+#introduction {
   height: 800px;
   width: 100%;
   background-size: 500px;
@@ -63,6 +67,9 @@ img {
   opacity: 0.75;
 }
 #projects {
-  height:100%
+  width: 100%;
+}
+#introduction {
+  height: 800px;
   width: 100%;
 }
